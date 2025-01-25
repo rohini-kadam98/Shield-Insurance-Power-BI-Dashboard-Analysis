@@ -9,19 +9,19 @@ Show total customers, total revenue, daily revenue growth, daily customer growth
 Month over month change% on key metrics                                                        
 Segment customers based on their age groups: 18-24, 25-30, 31-40, 41-50, 51-65, and 65+   
 Total revenue split by age group, city   
-Total customers split by age group, city   
-Customers, daily customer growth trend by month
-Revenue, daily revenue growth trend by month
-Create a switch between revenue trend graph and customer trend graph
-Filters on sale mode, age group, city, month, policy ID
-Separate page for sales mode analysis
-Total customers split percentage by sales mode
-Total revenue split percentage by sales mode
-Trend of sales mode over month
-Separate page for age group analysis
-Age group vs expected settlement
-Age group vs sales mode
-Age group vs policy preference
+Total customers split by age group, city                   
+Customers, daily customer growth trend by month                                  
+Revenue, daily revenue growth trend by month                                      
+Create a switch between revenue trend graph and customer trend graph                              
+Filters on sale mode, age group, city, month, policy ID                                         
+Separate page for sales mode analysis                                       
+Total customers split percentage by sales mode                                
+Total revenue split percentage by sales mode                                  
+Trend of sales mode over month                                     
+Separate page for age group analysis                                    
+Age group vs expected settlement                                              
+Age group vs sales mode                                                         
+Age group vs policy preference                                          
 
 ## Data Storage
 The dataset is completely available on the Code basis website platform where it stores and consolidates all available datasets for analysis.
